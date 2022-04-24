@@ -14,8 +14,8 @@ Her bir matris hücresinde (pikseller üzerinde) bulunan sayılar, RGB (red, gre
 Temel olarak 3 renk vardır ve tüm renklerde aslında bu renklerin karışımından oluşmaktadır. 
 Kırmızı, yeşil ve mavi renklerini belli oranlarda (0 ile 255 arasında) karıştırdığımız zaman 
 tüm renklerin tüm tonlarını elde edebiliriz.
-Bu durum resimlerin 3 kanallı olmasından kaynaklanıyor. Kırmızı, yeşil ve mavi şeklinde 3 kanal 
-yani 3 ana renk var. Kırmızının, yeşilin, mavinin sayısal değerlerine minimum 0, maksimum 255 olacak 
+Bu durum resimlerin Kırmızı, yeşil ve mavi şeklinde 3 kanallı olmasından kaynaklanıyor. 
+Kırmızının, yeşilin, mavinin sayısal değerlerine minimum 0, maksimum 255 olacak 
 şekilde değerler vererek farklı tonlar elde edebiliriz.
 """
 
